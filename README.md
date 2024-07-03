@@ -1,3 +1,3 @@
 Cachorros latem;
-Gatos miam;
+Os gatos miam;
 
